@@ -1,0 +1,12 @@
+{
+  "id": "/s-room/",
+  "name": "S ROOM",
+  "short_name": "S ROOM",
+  "description": "S ROOM digital finance demo platform.",
+  "start_url": "/s-room/",
+  "scope": "/s-room/",
+  "display": "standalone",
+  "background_color": "#101114",
+  "theme_color": "#101114",
+  "orientation": "portrait"
+}
